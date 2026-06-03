@@ -24,7 +24,7 @@ https://ulisboa.maps.arcgis.com/apps/dashboards/9088fa801b454f32afa39d5c84e10c7b
 
 ### Primary Data
 
-* National survey on food habits, food security, and sustainability perceptions conducted in Portugal (2024)
+* National survey on food habits, food security, and sustainability perceptions conducted in Portugal (2024 to May 2026)
 * Individual responses aggregated to municipal and NUTS III levels
 
 ### Open Data Sources
@@ -47,17 +47,30 @@ Individual sustainable diet scores are aggregated to produce municipal and regio
 
 ---
 
-## Methodology
+## Methodology and related ressources
 
-The methodological framework supporting the Care4Food food score is described in:
+The methodological framework supporting the Care4Food food diet score is described in:
 
 Abrantes, P., & Marques da Costa, E. (2026). *Citizen-driven monitoring of sustainable diets: Linking individual behaviour to territorial indicators*. Sustainable Cities and Society: Advances.
 
 DOI: https://doi.org/10.1016/j.scsadv.2026.100069
 
-The dashboard desciption is in:
 
-Abrantes, P. (2026). *Dashboard Care4Food: Sustainable Dietary Transitions in Portugal: Behavioral and Territorial Drivers from Project Choices and Perceptions of Food Security and Sustainability in a Changing Climate* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18351667
+
+Dashboard Documentation
+
+Abrantes, P. (2026). Dashboard Care4Food: Sustainable Dietary Transitions in Portugal: Behavioral and Territorial Drivers from Project Choices and Perceptions of Food Security and Sustainability in a Changing Climate [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18351667
+
+
+Survey Dataset
+
+Abrantes, P., Marques da Costa, E., Viana, C. M., & Gomes, E. J. (2025). Care4Food: Choices and Perceptions of Food Security and Sustainability in a Climate Change Context in Portugal (v0.2). Zenodo. https://doi.org/10.5281/zenodo.17580594
+
+
+Repository
+
+Abrantes, P. (2026). Care4Food GIS Repository (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20530168
+
 
 ---
 
@@ -84,23 +97,7 @@ Abrantes, P. (2026). *Dashboard Care4Food: Sustainable Dietary Transitions in Po
 
 ---
 
-## Citation
 
-If you use the dashboard or information derived from it, please cite:
-
-Abrantes, P. (2026). *Dashboard Care4Food: Sustainable Dietary Transitions in Portugal: Behavioral and Territorial Drivers from Project Choices and Perceptions of Food Security and Sustainability in a Changing Climate* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18351667
-
-### Related Dataset and repository
-
-Abrantes, P., Marques da Costa, E., Viana, C. M., & Gomes, E. J. (2025). *Care4Food: Choices and Perceptions of Food Security and Sustainability in a Climate Change Context in Portugal* (v0.2). Zenodo. https://doi.org/10.5281/zenodo.17580594
-
-Abrantes, P. (2026). Care4Food GIS Repository (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20530168
-
-### Related Methodology Publication
-
-Abrantes, P., & Marques da Costa, E. (2026). *Citizen-driven monitoring of sustainable diets: Linking individual behaviour to territorial indicators*. Sustainable Cities and Society: Advances. https://doi.org/10.1016/j.scsadv.2026.100069
-
----
 
 ## License
 
