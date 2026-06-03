@@ -4,6 +4,7 @@ message: "If you use this repository, please cite the repository and the related
 type: dataset
 
 Abrantes, P. (2026). Care4Food GIS Repository (Version 1.0) [Data repository].
+repository-code: "https://github.com/Patabrantes/care4food-gis"
 
 authors:
   - family-names: Abrantes
