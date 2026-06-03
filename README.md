@@ -21,6 +21,12 @@ OpenStreetMap (OSM)
 Statistics Portugal (INE)
 Sustainable Diet Score resulting from primary data
 
+Dashboard Access
+
+The interactive dashboard is available through ArcGIS Online:
+
+Dashboard URL: [(https://ulisboa.maps.arcgis.com/apps/dashboards/9088fa801b454f32afa39d5c84e10c7b)]
+
 
 The Care4Food Sustainable Diet Score is calculated using indicators related to:
 Consumption of animal proteins;
@@ -29,29 +35,22 @@ Consumption of ultra-processed foods;
 Food purchasing behaviour;
 Food waste practices.
 
-Individual Sustainable Diet Score are aggregated to produce municipal and regional indicators.
+Individual Sustainable Diet Score are aggregated to produce municipal and regional indicators and Detailed methodological on the food score is described in:
 
+Patrícia Abrantes, Eduarda Marques da Costa,
+Citizen-driven monitoring of sustainable diets: Linking individual behaviour to territorial indicators,
+Sustainable Cities and Society: Advances, ISSN 3051-052X, https://doi.org/10.1016/j.scsadv.2026.100069.
+(https://www.sciencedirect.com/science/article/pii/S3051052X26000471)
 
-Detailed methodological information is available in the project documentation.
-
-
-Dashboard Access
-
-The interactive dashboard is available through ArcGIS Online:
-
-Dashboard URL: [(https://ulisboa.maps.arcgis.com/apps/dashboards/9088fa801b454f32afa39d5c84e10c7b)]
 
 
 Repository Contents
 
 This repository contains:
 
-Dashboard documentation;
-Methodological notes;
-Metadata and data dictionaries;
+Dashboard documentation - Care4food Dashboard – description.pdf
+Metadata;
 Citation information;
-Links to project outputs and datasets.
-Citation
 
 
 If you use the dashboard or information derived from it, please cite:
