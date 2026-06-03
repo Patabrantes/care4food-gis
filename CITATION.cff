@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Care4Food GIS Repository
+message: "If you use this repository, please cite the repository and the related Care4Food publications."
+type: dataset
+
+authors:
+  - family-names: Abrantes
+    given-names: Patricia
+    orcid: https://orcid.org/0000-0002-5477-8657
+
+license: CC-BY-4.0
+
+keywords:
+  - food sustainability
+  - sustainable diets
+  - GIS
+  - dashboard
+  - Portugal
